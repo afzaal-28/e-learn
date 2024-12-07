@@ -27,6 +27,7 @@
         "@inertiajs/inertia": "^0.11.1",
         "@vitejs/plugin-vue": "^5.2.1",
         "sweetalert2": "^11.14.5",
-        "vuex": "^4.1.0"
+        "vuex": "^4.1.0",
+        "ziggy": "^2.4.0"
     }
 }
